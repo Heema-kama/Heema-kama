@@ -1,4 +1,3 @@
-#```
 <h1 align="center">Heema Kama Empi Baijani</h1>
 
 ###
@@ -63,14 +62,13 @@
 ###
 
 <div align="center">
-  <img height="500" src="https://cdn.discordapp.com/attachments/1369351004562260112/1378754181124460631/WhatsApp_Image_2025-06-01_at_22.15.47_8376c6b3.jpg?ex=683dc064&is=683c6ee4&hm=3d21f68fe625a299bf0c2a9d15914583a1ac046b8eca43389fcf8682abc3d123&"  />
+  <img height="500" src="https://github.com/Heema-kama/Heema-kama/blob/main/images/WhatsApp_Image_2025-06-01_at_22.15.47_8376c6b3.jpg?raw=true"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="500" src="https://cdn.discordapp.com/attachments/1369351004562260112/1378754181644685383/WhatsApp_Image_2025-06-01_at_22.15.56_e29090fe.jpg?ex=683dc064&is=683c6ee4&hm=25c2fb012c74404d06b06d203b825219504f6cca5c10b634b124e41648f2d4f1&"  />
+  <img height="500" src="https://github.com/Heema-kama/Heema-kama/blob/main/images/WhatsApp_Image_2025-06-01_at_22.15.56_e29090fe.jpg?raw=true"  />
 </div>
 
 ###
-```

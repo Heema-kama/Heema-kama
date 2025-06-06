@@ -57,7 +57,7 @@
 
 ###
 
-<h1 align="left">My Arts</h1>
+<h2 align="left">My Arts</h2>
 
 ###
 

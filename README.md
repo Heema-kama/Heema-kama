@@ -63,9 +63,6 @@
 
 <div>
   <img style="width: 100%;" src="https://github.com/Heema-kama/Heema-kama/blob/main/images/WhatsApp_Image_2025-06-01_at_22.15.47_8376c6b3.jpg?raw=true"  />
-  
-  ###
-  
   <img style="width: 100%;" src="https://github.com/Heema-kama/Heema-kama/blob/main/images/WhatsApp_Image_2025-06-01_at_22.15.56_e29090fe.jpg?raw=true"  />
 </div>
 

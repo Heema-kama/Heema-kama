@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="https://i.pinimg.com/originals/27/ea/de/27eadea6d46faab5fcc498fd9b19da02.gif"  />
+  <img style="width: 100%;" src="https://i.pinimg.com/originals/27/ea/de/27eadea6d46faab5fcc498fd9b19da02.gif"  />
 </div>
 
 ###
@@ -61,14 +61,14 @@
 
 ###
 
-<div align="center">
-  <img height="500" src="https://github.com/Heema-kama/Heema-kama/blob/main/images/WhatsApp_Image_2025-06-01_at_22.15.47_8376c6b3.jpg?raw=true"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="500" src="https://github.com/Heema-kama/Heema-kama/blob/main/images/WhatsApp_Image_2025-06-01_at_22.15.56_e29090fe.jpg?raw=true"  />
+<div style="display: grid; grid-template-columns: repeat(2, minmax(0, 1fr));">
+  <div align="center">
+    <img style="width: 100%;" src="https://github.com/Heema-kama/Heema-kama/blob/main/images/WhatsApp_Image_2025-06-01_at_22.15.47_8376c6b3.jpg?raw=true"  />
+  </div>
+  
+  <div align="center">
+    <img style="width: 100%;" src="https://github.com/Heema-kama/Heema-kama/blob/main/images/WhatsApp_Image_2025-06-01_at_22.15.56_e29090fe.jpg?raw=true"  />
+  </div>
 </div>
 
 ###
